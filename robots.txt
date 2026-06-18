@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ggidiny.github.io/kaiyun-funzone-com-cn/sitemap.xml
